@@ -1,0 +1,8 @@
+node_modules
+.git
+.env
+test
+docs
+*.md
+*.http
+postman_collection.json
